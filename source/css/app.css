@@ -1,0 +1,20 @@
+table.table
+{
+	border:2px solid #3C8DBC !important;
+}
+.table thead tr th
+{
+	background-color: #3C8DBC;
+	color: #fff;
+}
+.table thead tr th a,
+.table thead tr th a:link,
+.table thead tr th a:visited
+{
+	color: #fff !important;
+}
+.table tbody tr.newData
+{
+    background-color: #3C8DBC;
+    color: #fff;
+}
